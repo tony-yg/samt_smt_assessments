@@ -185,6 +185,7 @@ email[["To"]] <- paste(
   "geasterbrook@usbr.gov",
   "jvogel@usbr.gov",
   "JAIsrael@usbr.gov",
+  "swalden@usbr.gov",
   "avaisvil@usbr.gov",
   "RField@usbr.gov",
   "lejohnson@usbr.gov",
